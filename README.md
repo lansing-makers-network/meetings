@@ -3,9 +3,6 @@ Lansing Makers Network
 Meeting Minutes and Agendas Repository
 --------------------------------------
 
+We've depreciated this repo in favor of using the LMN wiki for managing meeting minutes.
 
-This repository contains meeting minutes and agendas for LMN Meetings.  The 
-master branch of this repository should contain approved minutes and agendas as
-announced to the membership.  _Drafts_ should be created as a branch of this
-repository, preferably with a name denoting the meeting being drafted
-(i.e. draft_20120316).
+Visit http://wiki.lansingmakersnetwork.org/meetings/start for up-to-date meeting minutes and agendas.
